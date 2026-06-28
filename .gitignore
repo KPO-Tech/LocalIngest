@@ -141,3 +141,4 @@ logs/
 uv.lock
 sas
 prompts
+docs/tmp/
